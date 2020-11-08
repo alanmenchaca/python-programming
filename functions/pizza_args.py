@@ -1,7 +1,7 @@
 """Passing an Arbitrary Number of Arguments
 Sometimes you won't know ahead of time how many arguments a function needs to accept.
 Python allows you a function to collect an arbitrary number of arguments from the
-calling statement"""
+calling statement""" 
 
 
 # The asterisk in the parameter name *toppings tells Python to make an empty tuple
