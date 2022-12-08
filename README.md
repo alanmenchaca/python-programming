@@ -1,2 +1,23 @@
 # Python programming pratices
-Basic programming concepts, such as variables, lists, classes, loops, dictionaries, etc...
+This repository includes some of the following topics:
+
+- Basic programming concepts:
+  - Variables
+  - Classes
+  - Loops
+  - Dictionaries
+  - ...
+- College assignments: 
+  - Sorting algorithms
+  - Searching algorithms
+  - Software Development and architecture:
+    - Design Patterns (a few of them)
+    - Refactoring
+  - Simulation:
+    - Event simulation
+    - Stock simulation
+    - System simulation
+    - ...
+- Python Crash Course Book - practices
+- Managing Files and Exceptions
+- ...
