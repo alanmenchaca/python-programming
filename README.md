@@ -1,5 +1,5 @@
 # Python programming pratices
-This repository includes some of the following topics:
+This repository includes some of the following topics (the vast majority of the code is written in python):
 
 - Basic programming concepts:
   - Variables
