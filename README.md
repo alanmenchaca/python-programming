@@ -10,7 +10,7 @@ This repository includes some of the following topics (the vast majority of the 
 - College assignments: 
   - Sorting algorithms
   - Searching algorithms
-  - Software Development and architecture:
+  - Software Architecture & Design:
     - Design Patterns (a few of them)
     - Refactoring
   - Simulation:
